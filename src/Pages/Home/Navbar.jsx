@@ -14,7 +14,7 @@ function Navbar() {
 
   useEffect(() => {
     const handleResize = () => {
-      if (window.innerWidth <= 500) {
+      if (window.innerWidth <= 200) {
         closeMenu;
       }
     };
@@ -27,7 +27,7 @@ function Navbar() {
   }, []);
 
   useEffect(() => {
-    if (window.innerWidth <= 1200) {
+    if (window.innerWidth <= 800) {
       closeMenu;
     }
   }, []);
@@ -35,7 +35,7 @@ function Navbar() {
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
-        <img src="./img/logo.svg" alt="Logoipsum" />
+        <img src="./img/Hamzah Rushdan (1).png" alt="Logoipsum" />
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}

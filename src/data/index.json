@@ -4,48 +4,48 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I specialize in crafting dynamic, interactive web experiences using JavaScript, HTML, CSS, and React. Through seamless API integration, I infuse vitality into my projects, enriching them with real-time data sourced from databases."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "My expertise includes fetching and rendering database data onto web pages. I've implemented dynamic sorting capabilities, optimizing user interaction with database-driven content."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Mobile Development",
+      "description": "I've dedicated myself to crafting immersive and interactive mobile gaming applications in Android Studio. By leveraging the power of Kotlin and XML, I am able to create engaging experiences for Android devices.  "
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Data Analysis",
+      "description": "I am a Google-certified Data Analytics professional with over two years of experience harnessing SQL, Python, and PowerQuery to drive data-driven decision-making. I have extensive experience creating visualizations in Tableau to communicate insights with stakeholders."
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/Sales Dash 2.png",
+      "title": "Data Analysis",
+      "description": "This project entails leveraging SQL Server Management Studio for the analysis of sales data, employing RFM analysis techniques to gain insights into the vehicle sales industry. Subsequently, Tableau is utilized for visualizations to facilitate a comprehensive understanding of the data.",
+      "link": "https://github.com/HamzahRushdan/Sales-Data-Proj-1-"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/Brewsproj.png",
+      "title": "Web Development",
+      "description": "This website allows users to get basic brewery information from the database Open Brewery DB. When a user first loads the site the first 50 Brewerys from the database are loaded and displayed on the lefthand side of the screen. The user has the ability to click on any brewery in the list to populate all the information about the brewery.",
+      "link": "https://github.com/HamzahRushdan/brewery-project"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/pleasework.png",
+      "title": "Mobile Development",
+      "description": "Event-driven memory game project made with XML and Kotlin in Android Studio. Users are able to interact with the application by selecting and matching the corresponding cards.",
+      "link": "https://github.com/HamzahRushdan/Mobile-Memory-game"
     }
   ],
   "testimonial": [
@@ -53,24 +53,24 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
+      "description": "Hamzah is awesome and an asset to any development team.",
+      "author_name": "Justin Tiempo",
       "author_designation": "Starbucks"
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
+      "description": "This kid is extremely talented and has a bright future ahead of him.",
+      "author_name": "Chris P. Bacon",
       "author_designation": "Louis Vuitton"
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
+      "description": "Hamzah is a great developer and a pleasure to work with. He is always willing to go the extra mile to get the job done.",
+      "author_name": "Hugh Jass",
       "author_designation": "McDonald's"
     }
   ]
